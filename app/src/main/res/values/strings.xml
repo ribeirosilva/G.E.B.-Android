@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">G.E.B.</string>
+    <string name="mensagem_login">Adicione dados de login</string>
+
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_adicionar">Adicionar</string>
+    <string name="action_config">Configurações</string>
+    <string name="action_remover">Remover</string>
+    <string name="action_sair">Sair</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+</resources>
